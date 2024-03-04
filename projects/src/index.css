@@ -11,13 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-#app{
-  border-style: solid;
-  border-color: blue;
-  border-width: 10px;
-  text-align: center;
-  width: 800px;
- color: black;
- background-color: aqua;
- background-image: repeating-conic-gradient(yellow 35%, cyan 40%, purple 45%);
-}

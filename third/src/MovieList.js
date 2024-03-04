@@ -2,7 +2,7 @@ import Movies from "./Movies";
 function MovieList()
 {
     return(
-    <div>
+    <div ClassName="movies">
       <Movies/>
       <Movies/>
       <Movies/>
