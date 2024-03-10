@@ -1,0 +1,29 @@
+.counter
+{
+  color: aqua;
+  background-color: chartreuse;
+  border-style: double;
+  border-color: black;
+  border-width: 5px;
+}
+.main
+{
+  color: aqua;
+  background-color: chartreuse;
+  border-style: double;
+  border-color: black;
+  border-width: 5px;
+  width: 400px;
+  margin-top: 50px;
+  margin-left: 500px;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+}
+  }
+  .add
+  {
+    font-size: 1000px;
+    font-style: calc();
+    font-variant: unset;
+  }

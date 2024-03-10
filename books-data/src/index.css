@@ -1,0 +1,16 @@
+.Book
+{
+   
+   padding: 40px;
+}
+.Book1
+{
+  display:flex;
+  gap: 10px;
+}
+img
+{
+  height:100px;
+  width:100px;
+  
+}

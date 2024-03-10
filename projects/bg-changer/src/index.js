@@ -1,16 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App'
+import App from './App';
+import Appcolor from './Appcolor';
 import reportWebVitals from './reportWebVitals';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <div className='app'>
+  <div className="index">
     <React.StrictMode>
-    <App />
-    </React.StrictMode>
-    </div>
-  );
+  <Appcolor />
+</React.StrictMode>
+</div>
+  
+);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
